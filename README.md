@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Yoonseo Choi!  
 
-<!--
-**dbstj0/dbstj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🌱 Studying **Programming** and exploring **Creative Development**.  
+- 🔭 Focused on building **user-friendly apps** and solving **real-world problems**.  
+- 🎯 Aiming to become an **innovative developer**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Skills  
+
+| **Languages**  | **Tools**       |
+|-----------------|-----------------|
+| Python, C, JS   | VS Code, Git    |
+
+---
+
+## 🌟 Contact Me  
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  
